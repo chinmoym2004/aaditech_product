@@ -1,0 +1,273 @@
+main
+{
+	margin: 0px;
+	padding: 0px;
+}
+h1,h2,h3,h4,h5,h6
+{
+	margin: 0px;
+	padding: 0px;
+}
+.b
+{
+	border: 1px solid black;
+}
+.mp
+{
+	margin: 0px;
+	padding: 0px;
+}
+.left
+{
+	float: left;
+}
+
+header
+{
+	background-image: url("../img/.jpg");
+	background-color: yellow;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+.bg
+{
+	height: auto;
+	widows: 100%;
+
+}
+
+nav ul li
+{
+	list-style-type: none;
+	text-align: right;
+	padding-top: 36px;
+	padding-right: 20px;
+	   
+	
+	
+}
+nav ul li a
+{
+	text-decoration: none;
+}
+.header_text
+{
+	
+	font-size: 72px;
+	padding-top: 240px;
+	padding-left: 40px;
+	width: auto;
+	color: black;
+}
+.header_text1
+{
+	color: black;
+	font-size: 24px;
+
+	padding-left: 40px;
+	padding-top: 30px;
+}
+.header_btn
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	height: 54px;
+	width: 179px;
+	background-color: transparent;
+	border: 1px solid black;
+}
+.header_btn_text
+{
+	color: black;
+	float: left;
+	padding-left: 20px;
+}
+.section1
+{
+	background-color: #ffc853;
+	
+}
+.section1_text
+{
+	padding: 40px 0px;
+	padding-left: 20px;
+	
+}
+.form_box
+{
+	position: relative;
+    width: 100%;
+}
+.section_form_btn
+{
+	background-color: #ffc853;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    top: 30px;
+
+}
+.section_form_btn:focus
+{
+	outline: none;
+}
+.section_inputtype
+{
+	
+	margin-top: 40px;
+	background-color: transparent;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid black;
+	width: 100%;
+	
+	float: left;
+}
+.section_inputtype:focus
+{
+	outline: none;
+}
+
+.twitter
+{
+	padding-top:40px;
+	padding-right: 0px;
+	padding-left: 0px; 
+	}
+.twitter_img
+{
+	float: left;
+	height: 20px;
+	width: 20px;
+}
+.twitter a
+{
+	text-decoration: none;
+	padding-left: 20px;
+	color: black;
+}
+.life_section
+{
+	height: 380px;
+	background-color: lightgray;
+	margin: 0px;
+	padding: 0px;
+}
+.h1_style_life_section
+{
+	font-family: arial;
+	padding-top: 150px;
+	text-align: center;
+
+}
+.h2_style_life_section
+{
+	font-family: arial;
+	padding-top: 150px;
+	text-align: center;
+
+}
+.sec_aqua
+{
+	background-color: #6bd3cc;
+	margin: 0px;
+	padding: 0px;
+}
+.inner_sec_aqua
+{
+	padding: 68px;
+}
+.aqua_text
+{
+	
+	display: block;
+    min-height: 180px;
+}
+.aqua_text p
+{
+	padding-top: 20px;
+	font-size: 18px;
+	line-height: 30px;
+	
+
+}
+.sec_red
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #ff4f42;
+}
+.text_style
+{
+	margin-top: 90px;
+	margin-left: 68px;
+	max-width: 500px;
+}
+.text_style p
+{
+	padding-top: 50px;
+	font-size: 16px;
+    font-weight: lighter;
+    letter-spacing: .02em;
+    line-height: 23px;
+
+}
+.buildclass
+{
+
+	padding: 162px 40px;
+	text-align: center;
+	background-color: #F9F9F9;
+
+}
+.buildclass h1
+{
+	font-size: 45px;
+    font-weight: 600; 
+}
+.img1
+{
+	background-image: url(../img/.png);
+	background-color: red;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 752px;
+    width: 674.5px;
+}
+.formclass
+{
+	padding: 10% 10%;
+}
+.formclass .pclass
+{
+	padding-top: 30px;
+}
+.formclass .tbox
+{
+	background-color: transparent;
+	outline: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom-color: LightSlateGrey;
+	border-bottom-width: 1px;
+	
+}
+.formclass .lbl
+{
+	font-size: 12px;
+	
+
+}
+footer
+{
+	background-color: black;
+	padding: 30px 20px;
+}
+footer h4
+{
+	color:white;
+}
